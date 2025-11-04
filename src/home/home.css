@@ -1,0 +1,11 @@
+
+.conter
+{
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+  color: blue;
+  font-size: 2rem;
+}
